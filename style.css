@@ -35,7 +35,7 @@ table, th, td {
     
 }
 
-img.back {
+img.back , img.photo {
     display: block;
     width: 20%;;
     height: 20%;
